@@ -1,7 +1,5 @@
 # Testing Spider City in Minecraft
 
-Based on the code you've shared, here's how to test your Spider City build:
-
 ## Buttons to Try in Play Mode
 
 1. **Chat Commands**:
